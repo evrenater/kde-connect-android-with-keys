@@ -10,13 +10,10 @@ This is a fork of the [KDE Connect Android app](https://github.com/KDE/kdeconnec
 - Esc
 - (and similar useful keys)
 
-# Video on Youtube
-
-
+## Video on Youtube
 [App Video](https://www.youtube.com/shorts/aMglto0Zbnk)
 
-
-
+##
 For all other details, installation instructions, and contribution guidelines, please refer to the original [KDE Connect Android repository](https://invent.kde.org/network/kdeconnect-android/).
 
 ## License
